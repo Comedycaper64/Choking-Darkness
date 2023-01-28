@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - QTE
+  - Detection
+  - Darkness
+  - QTETarget
+  - MouseDownSlider
+  - Breath
+  - LevelManager
+  - Key
+  - Tutorial
+  - MusicPlayer
+  - SFX
+  - Health
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Impassable
+  - Darkness
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 286338793
+    locked: 0
+  - name: Player
+    uniqueID: 2925390649
+    locked: 0
+  - name: Foreground
+    uniqueID: 2111938695
+    locked: 0
+  - name: UI
+    uniqueID: 3510747303
+    locked: 0
